@@ -15,7 +15,7 @@ NEXT
 * git push
 
 
-REF
+OTHERS
 
 * git status
 * git config --list
