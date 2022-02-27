@@ -1,4 +1,4 @@
-FIRST
+## FIRST
 
 * git init
 * git add README.md
@@ -8,14 +8,14 @@ FIRST
 * git push -u origin main
 
 
-NEXT
+## NEXT
 
 * git add .
 * git commit -m 'version no.'
 * git push
 
 
-OTHERS
+## OTHERS
 
 * git status
 * git config --list
