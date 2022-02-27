@@ -19,6 +19,6 @@ OTHERS
 
 * git status
 * git config --list
-* git remote -V
+* git remote -v
 * git remote set-url origin https://github.com/sjrhee/repo2.git
 
